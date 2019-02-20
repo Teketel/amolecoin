@@ -1,7 +1,7 @@
 amolecoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/amolecoin/amolecoin.svg?branch=master)](https://travis-ci.org/amolecoin/amolecoin)
+[![Build Status](https://travis-ci.com/amolecoin/amolecoin.svg?branch=master)](https://travis-ci.com/amolecoin/amolecoin)
 
 http://amolecoin.org
 
